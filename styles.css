@@ -1,0 +1,46 @@
+body {
+    margin: 0px;
+}
+.container {
+    padding: 95px;
+}
+#Red-Main {
+    background-color: #d15c19;
+    margin: auto;
+}
+
+#Orange-Main {
+    background-color: #e5a685;
+    margin: 60px;
+}
+
+#Blue-Main {
+    background-color: #469fc7;
+    margin: 60px;
+}
+
+#Sky-Main {
+    background-color: #a0cae0;
+    margin: 60px;
+}
+
+#Red {
+    text-align: center;
+}
+
+#Orange {
+    text-align: center;
+}
+
+#Blue {
+    text-align: center;
+}
+
+#Sky {
+    text-align: center;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-style: oblique;
+}
